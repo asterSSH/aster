@@ -1,10 +1,10 @@
 {
-  "description": "aster's dev portfolio website",
   "owner": {
     "username": "asterSSH",
     "email": "aster@aster.sh"
   },
-  "record": {
-    "URL": "https://aster.sh"
-  }
+  "records": {
+    "CNAME": "asterssh.github.io"
+  },
+  "proxied": true
 }
